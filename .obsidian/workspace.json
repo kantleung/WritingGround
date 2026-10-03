@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soul.md",
+                "file": "Opium War/鴉片戰爭的真相.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soul"
+              "title": "鴉片戰爭的真相"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "7f9e7cb712933457",
   "lastOpenFiles": [
+    "Soul.md",
     "Opium War/史料/經濟數據與白銀危機.md",
     "Opium War/史料/經濟數據與白銀危機.md.tmp.23480.4ee59d8123f5",
     "Opium War/史料/Gelber與Lovell修正主義論爭.md",
@@ -222,7 +223,6 @@
     "Opium War/史料/文獻與說法綜覽.md.tmp.23480.c3e27b680cfb",
     "Opium War/史料",
     "testing.md",
-    "Soul.md",
     "Opium War",
     "Untitled.base"
   ]
