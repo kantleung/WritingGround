@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Opium War/鴉片戰爭的真相.md",
+                "file": "Soul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "鴉片戰爭的真相"
+              "title": "Soul"
             }
           }
         ],
@@ -204,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f9e7cb712933457",
+  "active": "25a7ac945fab5683",
   "lastOpenFiles": [
+    "Opium War/鴉片戰爭的真相.md",
+    "Opium War/鴉片戰爭的真相.md.tmp.9928.b2573b471872",
     "Soul.md",
     "Opium War/史料/經濟數據與白銀危機.md",
     "Opium War/史料/經濟數據與白銀危機.md.tmp.23480.4ee59d8123f5",
@@ -217,13 +219,11 @@
     "Opium War/史料/Polachek內部政治說.md.tmp.23480.4ad52018bf06",
     "Opium War/史料/英國國會辯論記錄.md",
     "Opium War/史料/英國國會辯論記錄.md.tmp.23480.fa91405e46a6",
-    "Opium War/鴉片戰爭的真相.md",
     "Opium War/鴉片戰爭的真相.md.tmp.23480.ee4c6445bd44",
     "Opium War/史料/文獻與說法綜覽.md",
     "Opium War/史料/文獻與說法綜覽.md.tmp.23480.c3e27b680cfb",
     "Opium War/史料",
     "testing.md",
-    "Opium War",
-    "Untitled.base"
+    "Opium War"
   ]
 }
