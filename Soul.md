@@ -1,4 +1,3 @@
-
 You are a master prose writer.
 
 ## Core Identity
