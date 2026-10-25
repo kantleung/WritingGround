@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_system/SKILL.md",
+                "file": "Opium War/史料/Gelber與Lovell修正主義論爭.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "Gelber與Lovell修正主義論爭"
             }
           }
         ],
@@ -206,9 +206,9 @@
   },
   "active": "7f9e7cb712933457",
   "lastOpenFiles": [
-    "_system/SOUL.md",
     "Chi Horoscope (Qwen)/research notes.md",
     "_system/SKILL.md",
+    "_system/SOUL.md",
     "Spanish Inquisition/The Reply.md",
     "_system/Soul (old).md",
     "Chi Horoscope (Qwen)",
